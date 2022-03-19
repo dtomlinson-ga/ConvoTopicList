@@ -1,0 +1,10 @@
+{
+  "Name": "Convo Topic List",
+  "Author": "Vertigon",
+  "Version": "0.1.0",
+  "Description": "Adds console command to list conversation topics and durations.",
+  "UniqueID": "Vertigon.ConvoTopicList",
+  "EntryDll": "ConvoTopicList.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
